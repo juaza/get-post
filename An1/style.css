@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.title{
+    color: rgb(162, 37, 162);
+}
+
+.boton{
+    text-align: center;
+    border: 1ox solid plum;
+    border-radius: 5px;
+    margin:10px 20% 10px 25%;
+    padding:10px 25% 10px 25%;
+    background-color: rgb(125, 16, 125);
+    color: white;
+}
+
+textarea{
+    margin-top: 10px;
+    border: 1px solid plum;
+    border-radius: 5px;
+    padding: 10px 35% 10px 0px;
+}
+
+.form{
+    padding: 0px 20px 0px 20px;
+    border: 1px solid plum;
+    max-width: 30%;
+}
+
+.input{
+    border: 1px solid plum;
+    border-radius: 5px;
+    margin: 5px 0px 30px 0px;
+    padding: 10px 50% 10px 0px;
+}
